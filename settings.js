@@ -17,7 +17,7 @@ global.location = "Nigeria, Lagos, africa" //ur location
 
 //new
 global.botname = 'DIDDY BOT 😎' //ur bot name
-global.ownernumber = '‪2347049892119‬' //ur owner number
+global.ownernumber = '2347049892119' //ur owner number
 global.ownername = 'DIDDY 😎' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"
 global.wagc = "https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"
